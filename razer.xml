@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote  name="github"
+			fetch=".." />
+    <default revision="master"
+             remote="github"
+             sync-j="4" />
+		 <project path="testing" name="westwind/vgateway" revision="master" />
+		 <project path="google-translate" name="westwind/translate-shell" reversion="develop" />
+</manifest>
