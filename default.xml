@@ -5,5 +5,5 @@
     <default revision="master"
              remote="github"
              sync-j="4" />
-    <project path="testing" name="westwind/vgateway" revision="master" >
+		 <project path="testing" name="westwind/vgateway" revision="master" />
 </manifest>
